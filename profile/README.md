@@ -10,19 +10,20 @@ We are Streame, an all-in-one Link-In-Bio Page. With primary focus on gaming and
 
 # 👋 Meet the Streame Team
 The people that make Streame great :D
-## [@ahmet2106](https://github.com/ahmet2106)
+## [@whyscarface](https://github.com/ahmet2106)
 Founder and Software Developer
 ### [Contact](https://streame.gg/@whyscarface)
-- Discord: [@whyscarface](https://discord.com/users/1245445974160052265)
-- Twitter: https://x.com/whyscarface
-- E-Mail: contact@streame.gg
+- 📺 Twitch: https://twitch.tv/whyscarface (STREAMING DAILY)
+- 💬 Discord: [@whyscarface](https://discord.com/users/1245445974160052265)
+- 🐦 Twitter: https://x.com/whyscarface
+- 📭 E-Mail: contact@streame.gg
 
 ## [@DatGamet](https://github.com/DatGamet)
 Founder and Software Developer
 ### [Contact](https://streame.gg/@dat_gamet)
-- Discord: [@d_gamet](https://discord.com/users/754246997266923571)
-- Twitter: https://x.com/d__gamet
-- E-Mail: gamet@streame.gg
+- 💬 Discord: [@d_gamet](https://discord.com/users/754246997266923571)
+- 🐦 Twitter: https://x.com/d__gamet
+- 📭 E-Mail: gamet@streame.gg
 
 ## 🔗Official Links
 - Website: https://streame.gg/
